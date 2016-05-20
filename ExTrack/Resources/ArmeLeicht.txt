@@ -1,0 +1,13 @@
+Hamercurls	13	5	13	5	13	5	13	5	
+Hamercurls	13	5	13	5	13	5	13	5	
+Hamercurls	13	5	13	5	13	5	13	5	
+Bizeps Curls	13	5	13	5	13	5	13	5	
+Bizeps Curls	13	5	13	5	13	5	13	5	
+Bizeps Curls	13	5	13	5	13	5	13	5	
+Trizeps Curls / Trizepsdrücken	13	5	13	5	13	5	13	5	
+Trizeps Curls / Trizepsdrücken	13	5	13	5	13	5	13	5	
+Trizeps Curls / Trizepsdrücken	13	5	13	5	13	5	13	5	
+Schulterdrücken	15	10	
+Schulterdrücken	15	10	
+Schulterdrücken	15	10	
+
