@@ -74,11 +74,11 @@
             // lblVer
             // 
             this.lblVer.AutoSize = true;
-            this.lblVer.Location = new System.Drawing.Point(152, 38);
+            this.lblVer.Location = new System.Drawing.Point(176, 38);
             this.lblVer.Name = "lblVer";
-            this.lblVer.Size = new System.Drawing.Size(69, 13);
+            this.lblVer.Size = new System.Drawing.Size(37, 13);
             this.lblVer.TabIndex = 10;
-            this.lblVer.Text = "Version 1.0.0";
+            this.lblVer.Text = "v1.0.0";
             // 
             // About
             // 
@@ -92,6 +92,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "About";
             this.Text = "About";
+            this.Load += new System.EventHandler(this.About_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

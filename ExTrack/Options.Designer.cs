@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Options));
             this.optJohnCena = new System.Windows.Forms.RadioButton();
             this.optTripleH = new System.Windows.Forms.RadioButton();
             this.optBatman = new System.Windows.Forms.RadioButton();
@@ -96,6 +97,7 @@
             this.Controls.Add(this.optBatman);
             this.Controls.Add(this.optTripleH);
             this.Controls.Add(this.optJohnCena);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Options";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Options";

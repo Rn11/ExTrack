@@ -197,6 +197,7 @@ namespace ExTrack
                 index=index+2;
                 enterNext();            
             }
+            //if training is not finished
             else
             {
                 //update selected item from listview
@@ -213,6 +214,8 @@ namespace ExTrack
                 }
                 //increment index
                 index++;
+                //activate txtBox
+                txtRep.Select();
             }
         }
     }
